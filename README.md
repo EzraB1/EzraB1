@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Ezra Bii (@EzraB1)
+# 👋 Hi there, I'm Ezra Bii
 
 I'm a passionate data enthusiast blending **Applied Statistics** and **Computing** with real-world impact. Currently pursuing a **BSc in Applied Statistics with Computing** at Moi University, and a diploma in **Animal Production** from Baraka Agriculture College.
 
 ---
 
 - 👀 I’m interested in **Data Science, Machine Learning, AI Bots**, and **Agritech Solutions**  
-- 🌱 I’m currently learning **Advanced R programming**, **Bayesian Inference**, and building **AI-powered bots**  
+- 🌱 I’m currently learning **Advanced R programming**, **Bayesian Inference**, **Machine Learning** and building **AI-powered bots**  
 - 💞️ I’m looking to collaborate on **AI tools for Agriculture, Finance, and Mental Health Analytics**  
 - 📫 Reach me at: **ezrabii20@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ezra-bii-a97308253/)  
 - 😄 Pronouns: **He/Him**  
