@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Ezra Bii
 
-I'm a passionate data enthusiast blending **Applied Statistics** and **Computing** with real-world impact. Currently pursuing a **BSc in Applied Statistics with Computing** at Moi University, and a diploma in **Animal Production** from Baraka Agriculture College.
-
+I’m a passionate data enthusiast who blends Applied Statistics and Computing to drive real-world impact. I hold a Diploma in Animal Production from Baraka Agricultural College and recently completed my B.Sc. in Applied Statistics with Computing at Moi University, where I’ll graduate in December 2025. Currently interning in Denmark’s animal production sector, I’m leveraging my analytical and technical skills to uncover insights that improve efficiency and productivity in agriculture
 ---
 
 - 👀 I’m interested in **Data Science, Machine Learning, AI Bots**, and **Agritech Solutions**  
